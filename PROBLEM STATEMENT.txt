@@ -1,0 +1,4 @@
+PROBLEM STATEMENT
+       Liquid Petroleum Gas (LPG) is a highly flammable chemical that consists of mixture of propane and butane. LPG is used for cooking at home, restaurant, and certain use for industry. They have certain weaknesses that make the gas leakage occur. The leakage of gases only can be detected by human nearby and if there are no human nearby, it cannot be detected. But sometimes it cannot be detected by human that has a low sense of smell. Thus, this system will help to detect the presence of gas leakage.
+Furthermore, gas leakage can cause fire that will lead to serious injury or death and it also can destroy human properties. This system was developed by using IoT to give real-time response to the user and the nearest fire station.
+
